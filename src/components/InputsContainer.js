@@ -7,7 +7,7 @@ import lock_black from "../assets/lock_black.svg";
 function InputsContainer() {
   return (
     <>
-      <div className="input">
+      <div className="input" id="top">
         <h1>Inputs</h1>
 
         <div className="input-all">
@@ -125,6 +125,13 @@ function InputsContainer() {
             </div>
           </div>
         </div>
+      </div>
+
+      <div id="footer">
+        <footer>
+          <p id="footer-p">Developer: Dare Oloruntoba</p>
+          <a href="#top">Back to top &raquo;</a>
+        </footer>
       </div>
     </>
   );
