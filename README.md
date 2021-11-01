@@ -27,5 +27,5 @@
 1. Clone this project locally
 2. Run yarn install in your command line / terminal
 3. Run yarn start
-4. Enjoy
+4. Enjoy.
 
